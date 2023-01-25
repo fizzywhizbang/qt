@@ -5,7 +5,7 @@ Introduction
 
 [Go](https://en.wikipedia.org/wiki/Go_(programming_language)), also known as Golang, is a programming language designed at Google.
 
-[fizzywhizbang/qt](https://github.com/fizzywhizbang/qt) allows you to write Qt applications entirely in Go, [JavaScript/TypeScript](https://github.com/fizzywhizbang/entry), [Dart/Flutter](https://github.com/fizzywhizbang/flutter), [Haxe](https://github.com/fizzywhizbang/haxe) and [Swift](https://github.com/fizzywhizbang/swift)
+[fizzywhizbang/qt](https://github.com/fizzywhizbang/qt) allows you to write Qt applications entirely in Go, [JavaScript/TypeScript](https://github.com/therecipe/entry), [Dart/Flutter](https://github.com/therecipe/flutter), [Haxe](https://github.com/therecipe/haxe) and [Swift](https://github.com/therecipe/swift)
 
 Beside the language bindings provided, `fizzywhizbang/qt` also greatly simplifies the deployment of Qt applications to various software and hardware platforms.
 
