@@ -1,4 +1,4 @@
-module github.com/therecipe/qt
+module github.com/fizzywhizbang/qt
 
 go 1.19
 
