@@ -7,7 +7,7 @@ require (
 	github.com/sirupsen/logrus v1.4.1
 	github.com/stretchr/testify v1.8.1
 	golang.org/x/crypto v0.0.0-20190418165655-df01cb2cc480
-	golang.org/x/tools v0.0.0-20190420181800-aa740d480789
+	golang.org/x/tools v0.5.0
 )
 
 require (
