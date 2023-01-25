@@ -14,9 +14,9 @@ At the time of writing, almost all Qt functions and classes are accessible, and 
 Impressions
 -----------
 
-[Gallery](https://github.com/fizzywhizbang/qt/wiki/Gallery) of example applications.
+[Gallery](https://github.com/therecipe/qt/wiki/Gallery) of example applications.
 
-[JavaScript Demo](https://fizzywhizbang.github.io/entry) | *[source](https://github.com/fizzywhizbang/entry)*
+[JavaScript Demo](https://therecipe.github.io/entry) | *[source](https://github.com/therecipe/entry)*
 
 Installation
 ------------
@@ -28,31 +28,31 @@ The following instructions assume that you already installed [Go](https://golang
 ##### Windows
 
 ```powershell
-go get -ldflags="-w" github.com/fizzywhizbang/examples/basic/widgets && for /f %v in ('go env GOPATH') do %v\bin\widgets.exe
+go get -ldflags="-w" github.com/therecipe/examples/basic/widgets && for /f %v in ('go env GOPATH') do %v\bin\widgets.exe
 ```
 
 ##### macOS/Linux
 
 ```bash
-go get -ldflags="-w" github.com/fizzywhizbang/examples/basic/widgets && $(go env GOPATH)/bin/widgets
+go get -ldflags="-w" github.com/therecipe/examples/basic/widgets && $(go env GOPATH)/bin/widgets
 ```
 
 #### Default version
 
-##### Windows [(more info)](https://github.com/fizzywhizbang/qt/wiki/Installation-on-Windows)
+##### Windows [(more info)](https://github.com/therecipe/qt/wiki/Installation-on-Windows)
 
 ```powershell
 set GO111MODULE=off
 go get -v github.com/fizzywhizbang/qt/cmd/... && for /f %v in ('go env GOPATH') do %v\bin\qtsetup test && %v\bin\qtsetup -test=false
 ```
 
-##### macOS [(more info)](https://github.com/fizzywhizbang/qt/wiki/Installation-on-macOS)
+##### macOS [(more info)](https://github.com/therecipe/qt/wiki/Installation-on-macOS)
 
 ```bash
 export GO111MODULE=off; xcode-select --install; go get -v github.com/fizzywhizbang/qt/cmd/... && $(go env GOPATH)/bin/qtsetup test && $(go env GOPATH)/bin/qtsetup -test=false
 ```
 
-##### Linux [(more info)](https://github.com/fizzywhizbang/qt/wiki/Installation-on-Linux)
+##### Linux [(more info)](https://github.com/therecipe/qt/wiki/Installation-on-Linux)
 
 ```bash
 export GO111MODULE=off; go get -v github.com/fizzywhizbang/qt/cmd/... && $(go env GOPATH)/bin/qtsetup test && $(go env GOPATH)/bin/qtsetup -test=false
@@ -61,11 +61,11 @@ export GO111MODULE=off; go get -v github.com/fizzywhizbang/qt/cmd/... && $(go en
 Resources
 ---------
 
--	[Installation](https://github.com/fizzywhizbang/qt/wiki/Installation)
--	[Getting Started](https://github.com/fizzywhizbang/qt/wiki/Getting-Started)
--	[Wiki](https://github.com/fizzywhizbang/qt/wiki)
+-	[Installation](https://github.com/therecipe/qt/wiki/Installation)
+-	[Getting Started](https://github.com/therecipe/qt/wiki/Getting-Started)
+-	[Wiki](https://github.com/therecipe/qt/wiki)
 -	[Qt Documentation](https://doc.qt.io/qt-5/classes.html)
--	[FAQ](https://github.com/fizzywhizbang/qt/wiki/FAQ)
+-	[FAQ](https://github.com/therecipe/qt/wiki/FAQ)
 -	[#qt-binding](https://gophers.slack.com/messages/qt-binding/details) Slack channel ([invite](https://invite.slack.golangbridge.org)\)
 
 Deployment Targets
