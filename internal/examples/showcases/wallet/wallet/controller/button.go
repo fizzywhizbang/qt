@@ -1,9 +1,9 @@
 package controller
 
 import (
-	"github.com/therecipe/qt/core"
+	"github.com/fizzywhizbang/qt/core"
 
-	_ "github.com/therecipe/qt/internal/examples/showcases/wallet/wallet/dialog/controller"
+	_ "github.com/fizzywhizbang/qt/internal/examples/showcases/wallet/wallet/dialog/controller"
 )
 
 var ButtonController *buttonController

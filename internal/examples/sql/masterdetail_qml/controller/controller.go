@@ -6,11 +6,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/therecipe/qt/core"
-	"github.com/therecipe/qt/widgets"
-	"github.com/therecipe/qt/xml"
+	"github.com/fizzywhizbang/qt/core"
+	"github.com/fizzywhizbang/qt/widgets"
+	"github.com/fizzywhizbang/qt/xml"
 
-	"github.com/therecipe/qt/internal/examples/sql/masterdetail_qml/model"
+	"github.com/fizzywhizbang/qt/internal/examples/sql/masterdetail_qml/model"
 )
 
 var Instance *Controller

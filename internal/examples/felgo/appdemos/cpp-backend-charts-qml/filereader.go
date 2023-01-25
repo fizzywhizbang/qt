@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/therecipe/qt/core"
+	"github.com/fizzywhizbang/qt/core"
 )
 
 type FileReader struct {

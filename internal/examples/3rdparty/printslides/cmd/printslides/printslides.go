@@ -7,8 +7,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/therecipe/qt/core"
-	"github.com/therecipe/qt/gui"
+	"github.com/fizzywhizbang/qt/core"
+	"github.com/fizzywhizbang/qt/gui"
 )
 
 func main() {

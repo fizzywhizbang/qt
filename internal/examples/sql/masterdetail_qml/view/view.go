@@ -3,14 +3,14 @@
 package view
 
 import (
-	"github.com/therecipe/qt/widgets"
+	"github.com/fizzywhizbang/qt/widgets"
 
-	"github.com/therecipe/qt/internal/examples/sql/masterdetail_qml/controller"
+	"github.com/fizzywhizbang/qt/internal/examples/sql/masterdetail_qml/controller"
 
-	"github.com/therecipe/qt/internal/examples/sql/masterdetail_qml/view/album"
-	"github.com/therecipe/qt/internal/examples/sql/masterdetail_qml/view/artist"
-	"github.com/therecipe/qt/internal/examples/sql/masterdetail_qml/view/detail"
-	"github.com/therecipe/qt/internal/examples/sql/masterdetail_qml/view/dialog"
+	"github.com/fizzywhizbang/qt/internal/examples/sql/masterdetail_qml/view/album"
+	"github.com/fizzywhizbang/qt/internal/examples/sql/masterdetail_qml/view/artist"
+	"github.com/fizzywhizbang/qt/internal/examples/sql/masterdetail_qml/view/detail"
+	"github.com/fizzywhizbang/qt/internal/examples/sql/masterdetail_qml/view/dialog"
 )
 
 var ViewControllerInstance *viewController

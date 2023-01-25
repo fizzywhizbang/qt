@@ -17,10 +17,10 @@ import (
 	"github.com/fogleman/ln/ln"
 	"github.com/fogleman/pt/pt"
 
-	"github.com/therecipe/qt/core"
-	"github.com/therecipe/qt/gui"
-	_ "github.com/therecipe/qt/svg"
-	"github.com/therecipe/qt/widgets"
+	"github.com/fizzywhizbang/qt/core"
+	"github.com/fizzywhizbang/qt/gui"
+	_ "github.com/fizzywhizbang/qt/svg"
+	"github.com/fizzywhizbang/qt/widgets"
 )
 
 var (

@@ -3,8 +3,8 @@
 package view
 
 import (
-	"github.com/therecipe/qt/gui"
-	"github.com/therecipe/qt/widgets"
+	"github.com/fizzywhizbang/qt/gui"
+	"github.com/fizzywhizbang/qt/widgets"
 )
 
 type menuBarController struct {

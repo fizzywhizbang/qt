@@ -3,13 +3,13 @@
 package webengine
 
 import (
-	"github.com/therecipe/qt/core"
-	"github.com/therecipe/qt/gui"
-	"github.com/therecipe/qt/internal"
-	"github.com/therecipe/qt/network"
-	"github.com/therecipe/qt/printsupport"
-	"github.com/therecipe/qt/webchannel"
-	"github.com/therecipe/qt/widgets"
+	"github.com/fizzywhizbang/qt/core"
+	"github.com/fizzywhizbang/qt/gui"
+	"github.com/fizzywhizbang/qt/internal"
+	"github.com/fizzywhizbang/qt/network"
+	"github.com/fizzywhizbang/qt/printsupport"
+	"github.com/fizzywhizbang/qt/webchannel"
+	"github.com/fizzywhizbang/qt/widgets"
 	"unsafe"
 )
 

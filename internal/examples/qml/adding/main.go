@@ -5,8 +5,8 @@ package main
 import (
 	"os"
 
-	"github.com/therecipe/qt/core"
-	"github.com/therecipe/qt/qml"
+	"github.com/fizzywhizbang/qt/core"
+	"github.com/fizzywhizbang/qt/qml"
 )
 
 func main() {

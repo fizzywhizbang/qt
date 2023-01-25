@@ -3,9 +3,9 @@
 package core
 
 import (
-	"github.com/therecipe/qt"
-	"github.com/therecipe/qt/internal"
-	"github.com/therecipe/qt/interop/gow"
+	"github.com/fizzywhizbang/qt"
+	"github.com/fizzywhizbang/qt/internal"
+	"github.com/fizzywhizbang/qt/interop/gow"
 	"math"
 	"reflect"
 	"runtime"

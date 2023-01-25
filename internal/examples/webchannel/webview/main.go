@@ -3,15 +3,15 @@ package main
 import (
 	"os"
 
-	"github.com/therecipe/qt/core"
-	"github.com/therecipe/qt/gui"
-	"github.com/therecipe/qt/network"
-	"github.com/therecipe/qt/qml"
-	"github.com/therecipe/qt/webchannel"
-	"github.com/therecipe/qt/websockets"
-	"github.com/therecipe/qt/webview"
+	"github.com/fizzywhizbang/qt/core"
+	"github.com/fizzywhizbang/qt/gui"
+	"github.com/fizzywhizbang/qt/network"
+	"github.com/fizzywhizbang/qt/qml"
+	"github.com/fizzywhizbang/qt/webchannel"
+	"github.com/fizzywhizbang/qt/websockets"
+	"github.com/fizzywhizbang/qt/webview"
 
-	"github.com/therecipe/qt/internal/examples/webchannel/shared"
+	"github.com/fizzywhizbang/qt/internal/examples/webchannel/shared"
 )
 
 type Dialog struct {

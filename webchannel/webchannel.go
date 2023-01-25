@@ -3,8 +3,8 @@
 package webchannel
 
 import (
-	"github.com/therecipe/qt/core"
-	"github.com/therecipe/qt/internal"
+	"github.com/fizzywhizbang/qt/core"
+	"github.com/fizzywhizbang/qt/internal"
 	"unsafe"
 )
 

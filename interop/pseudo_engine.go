@@ -3,9 +3,9 @@ package interop
 import (
 	"unsafe"
 
-	"github.com/therecipe/qt"
+	"github.com/fizzywhizbang/qt"
 
-	"github.com/therecipe/qt/core"
+	"github.com/fizzywhizbang/qt/core"
 )
 
 //TODO: this == nil checks

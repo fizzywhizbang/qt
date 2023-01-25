@@ -14,6 +14,6 @@ package UGlobalHotkey
 */
 import "C"
 
-import "github.com/therecipe/qt/widgets"
+import "github.com/fizzywhizbang/qt/widgets"
 
 type stub struct{ widgets.QWidget }

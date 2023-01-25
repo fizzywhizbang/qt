@@ -2,4 +2,4 @@
 
 package env
 
-import _ "github.com/therecipe/env_linux_amd64_513"
+import _ "github.com/fizzywhizbang/env_linux_amd64_513"

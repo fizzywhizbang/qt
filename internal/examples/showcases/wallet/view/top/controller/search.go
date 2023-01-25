@@ -1,10 +1,10 @@
 package controller
 
 import (
-	"github.com/therecipe/qt/core"
+	"github.com/fizzywhizbang/qt/core"
 
-	"github.com/therecipe/qt/internal/examples/showcases/wallet/files/controller"
-	lcontroller "github.com/therecipe/qt/internal/examples/showcases/wallet/view/left/controller"
+	"github.com/fizzywhizbang/qt/internal/examples/showcases/wallet/files/controller"
+	lcontroller "github.com/fizzywhizbang/qt/internal/examples/showcases/wallet/view/left/controller"
 )
 
 type searchController struct {

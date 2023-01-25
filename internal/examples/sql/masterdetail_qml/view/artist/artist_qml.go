@@ -3,10 +3,10 @@
 package artist
 
 import (
-	"github.com/therecipe/qt/core"
-	"github.com/therecipe/qt/quick"
+	"github.com/fizzywhizbang/qt/core"
+	"github.com/fizzywhizbang/qt/quick"
 
-	"github.com/therecipe/qt/internal/examples/sql/masterdetail_qml/controller"
+	"github.com/fizzywhizbang/qt/internal/examples/sql/masterdetail_qml/controller"
 )
 
 func init() {

@@ -110,8 +110,8 @@ func main() {
 const quickflux_stub = `package quickflux
 
 import (
-	"github.com/therecipe/qt/core"
-	_ "github.com/therecipe/qt/quick"
+	"github.com/fizzywhizbang/qt/core"
+	_ "github.com/fizzywhizbang/qt/quick"
 )
 
 type quickflux_stub struct {

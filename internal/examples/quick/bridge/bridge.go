@@ -8,9 +8,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/therecipe/qt/core"
-	"github.com/therecipe/qt/quick"
-	"github.com/therecipe/qt/widgets"
+	"github.com/fizzywhizbang/qt/core"
+	"github.com/fizzywhizbang/qt/quick"
+	"github.com/fizzywhizbang/qt/widgets"
 )
 
 var (

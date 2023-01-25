@@ -1,9 +1,9 @@
 package controller
 
 import (
-	"github.com/therecipe/qt/core"
+	"github.com/fizzywhizbang/qt/core"
 
-	"github.com/therecipe/qt/internal/examples/showcases/wallet/controller"
+	"github.com/fizzywhizbang/qt/internal/examples/showcases/wallet/controller"
 )
 
 type StatusController struct {

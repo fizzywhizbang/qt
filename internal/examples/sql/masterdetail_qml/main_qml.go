@@ -6,13 +6,13 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/therecipe/qt/core"
-	"github.com/therecipe/qt/qml"
-	"github.com/therecipe/qt/widgets"
+	"github.com/fizzywhizbang/qt/core"
+	"github.com/fizzywhizbang/qt/qml"
+	"github.com/fizzywhizbang/qt/widgets"
 
-	"github.com/therecipe/qt/internal/examples/sql/masterdetail_qml/controller"
+	"github.com/fizzywhizbang/qt/internal/examples/sql/masterdetail_qml/controller"
 
-	_ "github.com/therecipe/qt/internal/examples/sql/masterdetail_qml/view"
+	_ "github.com/fizzywhizbang/qt/internal/examples/sql/masterdetail_qml/view"
 )
 
 const PRODUCTION = true
@@ -28,7 +28,7 @@ func main() {
 	if PRODUCTION {
 		path = "qrc:/qml/view.qml"
 	} else {
-		path = filepath.Join(os.Getenv("GOPATH"), "src", "github.com", "therecipe", "qt", "internal", "examples", "sql", "masterdetail_qml", "view", "qml", "view.qml")
+		path = filepath.Join(os.Getenv("GOPATH"), "src", "github.com", "fizzywhizbang", "qt", "internal", "examples", "sql", "masterdetail_qml", "view", "qml", "view.qml")
 	}
 
 	core.QCoreApplication_SetAttribute(core.Qt__AA_EnableHighDpiScaling, true)

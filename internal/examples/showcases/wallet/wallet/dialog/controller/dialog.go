@@ -5,10 +5,10 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/therecipe/qt/core"
+	"github.com/fizzywhizbang/qt/core"
 
-	maincontroller "github.com/therecipe/qt/internal/examples/showcases/wallet/controller"
-	_ "github.com/therecipe/qt/internal/examples/showcases/wallet/view/controller"
+	maincontroller "github.com/fizzywhizbang/qt/internal/examples/showcases/wallet/controller"
+	_ "github.com/fizzywhizbang/qt/internal/examples/showcases/wallet/view/controller"
 )
 
 func init() {

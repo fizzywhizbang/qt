@@ -3,7 +3,7 @@
 package webview
 
 import (
-	"github.com/therecipe/qt/internal"
+	"github.com/fizzywhizbang/qt/internal"
 	"unsafe"
 )
 

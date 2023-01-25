@@ -1,10 +1,10 @@
 package wallet
 
 import (
-	"github.com/therecipe/qt/core"
-	"github.com/therecipe/qt/quick"
+	"github.com/fizzywhizbang/qt/core"
+	"github.com/fizzywhizbang/qt/quick"
 
-	"github.com/therecipe/qt/internal/examples/showcases/wallet/wallet/controller"
+	"github.com/fizzywhizbang/qt/internal/examples/showcases/wallet/wallet/controller"
 )
 
 func init() { walletTemplate_QmlRegisterType2("WalletTemplate", 1, 0, "WalletTemplate") }

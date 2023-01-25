@@ -3,11 +3,11 @@ package main
 import (
 	"os"
 
-	"github.com/therecipe/qt/core"
-	"github.com/therecipe/qt/gui"
-	"github.com/therecipe/qt/network"
-	"github.com/therecipe/qt/quick"
-	"github.com/therecipe/qt/webengine"
+	"github.com/fizzywhizbang/qt/core"
+	"github.com/fizzywhizbang/qt/gui"
+	"github.com/fizzywhizbang/qt/network"
+	"github.com/fizzywhizbang/qt/quick"
+	"github.com/fizzywhizbang/qt/webengine"
 )
 
 type bridge struct {
